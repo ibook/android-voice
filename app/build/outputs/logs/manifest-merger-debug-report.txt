@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d3940ac9b5fade2b3ec1901cc24b2a3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/neo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8ec6b624749a0970b9445870580b717f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/451c5582870dfb14abc39542a1041557/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/82fbd4858a76f07290552f0daa43a63c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/073521b0c2faf118d8448feca267fd55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/034768c2c12363d8a2f2855cc2a87c46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aa80267d6115c1b90798de082936e451/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7f7e006c2ed469efcb380c52a62b142b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bb272cbf4a3e391e908732a0cdb16050/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7ae4ee83289cffa7f36d0f1ac35f4689/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9ec6cf0767899f8442c2e55c5bb09a35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1e9572b23635e05afecc58d6e0a7f835/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/741d16ec4fd9d055af95afc856334123/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d521a76b7bbbea4f38f795741b405a50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/023fb2a47ee77aefcd4615ccc235df1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/82db5263c6f8dd2b3d511d88429c1610/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2293bbea222d436a437f7d563d1f2dfc/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7db3808017147129e6f8bf83b628da60/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c2408295e8dd759025d7d2f26e1d6af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d0bbfd306ff3ecf2cbc164917cfc0133/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5c3a1416b39be70ac09a2058215fa756/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b10e7babe7ce13309737ea6fa10c256e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fb50d3426f289eebdbdacd5a33470af0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/023625a575e5780a187085487118e1c7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4b09dc0cbf84bf12a9b32c5ae06697d6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7da781a43ceb698a4852d656abb5ccf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a2a38640f2da34e785dd2113469a8068/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/neo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8ec6b624749a0970b9445870580b717f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/neo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8ec6b624749a0970b9445870580b717f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/82db5263c6f8dd2b3d511d88429c1610/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/82db5263c6f8dd2b3d511d88429c1610/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2293bbea222d436a437f7d563d1f2dfc/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2293bbea222d436a437f7d563d1f2dfc/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/82db5263c6f8dd2b3d511d88429c1610/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:14:9-40
+activity#cn.netkiller.voice.MainActivity
+ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d3940ac9b5fade2b3ec1901cc24b2a3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d3940ac9b5fade2b3ec1901cc24b2a3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/neo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8ec6b624749a0970b9445870580b717f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/neo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8ec6b624749a0970b9445870580b717f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/451c5582870dfb14abc39542a1041557/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/451c5582870dfb14abc39542a1041557/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/82fbd4858a76f07290552f0daa43a63c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/82fbd4858a76f07290552f0daa43a63c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/073521b0c2faf118d8448feca267fd55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/073521b0c2faf118d8448feca267fd55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/034768c2c12363d8a2f2855cc2a87c46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/034768c2c12363d8a2f2855cc2a87c46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aa80267d6115c1b90798de082936e451/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/aa80267d6115c1b90798de082936e451/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7f7e006c2ed469efcb380c52a62b142b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7f7e006c2ed469efcb380c52a62b142b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bb272cbf4a3e391e908732a0cdb16050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bb272cbf4a3e391e908732a0cdb16050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7ae4ee83289cffa7f36d0f1ac35f4689/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7ae4ee83289cffa7f36d0f1ac35f4689/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9ec6cf0767899f8442c2e55c5bb09a35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9ec6cf0767899f8442c2e55c5bb09a35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1e9572b23635e05afecc58d6e0a7f835/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1e9572b23635e05afecc58d6e0a7f835/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/741d16ec4fd9d055af95afc856334123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/741d16ec4fd9d055af95afc856334123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d521a76b7bbbea4f38f795741b405a50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d521a76b7bbbea4f38f795741b405a50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/023fb2a47ee77aefcd4615ccc235df1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/023fb2a47ee77aefcd4615ccc235df1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/82db5263c6f8dd2b3d511d88429c1610/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/82db5263c6f8dd2b3d511d88429c1610/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2293bbea222d436a437f7d563d1f2dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2293bbea222d436a437f7d563d1f2dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7db3808017147129e6f8bf83b628da60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7db3808017147129e6f8bf83b628da60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c2408295e8dd759025d7d2f26e1d6af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c2408295e8dd759025d7d2f26e1d6af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d0bbfd306ff3ecf2cbc164917cfc0133/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d0bbfd306ff3ecf2cbc164917cfc0133/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5c3a1416b39be70ac09a2058215fa756/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5c3a1416b39be70ac09a2058215fa756/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b10e7babe7ce13309737ea6fa10c256e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b10e7babe7ce13309737ea6fa10c256e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fb50d3426f289eebdbdacd5a33470af0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fb50d3426f289eebdbdacd5a33470af0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/023625a575e5780a187085487118e1c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/023625a575e5780a187085487118e1c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4b09dc0cbf84bf12a9b32c5ae06697d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4b09dc0cbf84bf12a9b32c5ae06697d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7da781a43ceb698a4852d656abb5ccf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/neo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7da781a43ceb698a4852d656abb5ccf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a2a38640f2da34e785dd2113469a8068/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/neo/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a2a38640f2da34e785dd2113469a8068/AndroidManifest.xml:20:5-44
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+		ADDED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/neo/AndroidStudioProjects/Voice/app/src/main/AndroidManifest.xml
