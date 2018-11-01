@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private MediaPlayer mediaPlayer;
     private String filename;
+    private Audio audio;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,14 +55,17 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         switch (v.getId()) {
             case R.id.record:
-//                Audio audio = Audio.getInstance();
+                 audio = Audio.getInstance();
                 if (record.getText().equals("Record")) {
-//                    audio.start();
-                    this.start();
-
+                    audio.start();
+//                    this.start();
+                    record.setText("Stop");
+                    status.setText("开启录音，请对准话筒讲话");
                 } else {
-//                    audio.stop();
-                    this.stop();
+                    audio.stop();
+//                    this.stop();
+                    record.setText("Record");
+                    status.setText("录音停止");
                 }
                 break;
             case R.id.play:
@@ -114,7 +118,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void play() {
-        this.stop();
+//        this.stop();
+        audio.stop();
+        filename = audio.getFilename();
         if (filename == null) {
             Toast.makeText(getApplicationContext(), "请先录音", Toast.LENGTH_SHORT).show();
             return;

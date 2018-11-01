@@ -1,25 +1,22 @@
 package cn.netkiller.voice;
 
 import android.media.MediaRecorder;
+import android.os.Environment;
+import android.util.Log;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class Audio {
 
     private boolean isRecord = false;
 
     private MediaRecorder mediaRecorder;
+    private String filename;
 
     private Audio() {
-
-        mediaRecorder = new MediaRecorder();
-        mediaRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);
-//        mediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
-//        mediaRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
-        mediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.DEFAULT);
-        mediaRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.DEFAULT);
-        mediaRecorder.setOutputFile("a.3gp");
 
     }
 
@@ -31,17 +28,38 @@ public class Audio {
         return instance;
     }
 
+    public String getFilename() {
+        return filename;
+    }
+
     public void start() {
 
-        try {
-            mediaRecorder.prepare();
-            mediaRecorder.start();
+        if (mediaRecorder == null) {
 
-            isRecord = true;
+            String path = Environment.getExternalStorageDirectory().getPath();
+            String folder = new SimpleDateFormat("yyyy-MM-dd").format(new Date());
+            String name = new SimpleDateFormat("hhmmss").format(new Date());
+            new File(path, folder).mkdirs();
 
-        } catch (IOException ex) {
-            ex.printStackTrace();
+            filename = String.format("%s/%s/%s.3gp", path, folder, name);
+            Log.e("Voice", "voice path " + filename);
 
+            try {
+
+                mediaRecorder = new MediaRecorder();
+                mediaRecorder.setAudioSource(MediaRecorder.AudioSource.MIC);
+                mediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.DEFAULT);
+                mediaRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.DEFAULT);
+                mediaRecorder.setOutputFile(filename);
+                mediaRecorder.prepare();
+                mediaRecorder.start();
+
+                isRecord = true;
+
+            } catch (IOException ex) {
+                ex.printStackTrace();
+
+            }
         }
 
     }
